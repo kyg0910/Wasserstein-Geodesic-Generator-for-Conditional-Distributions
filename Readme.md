@@ -5,17 +5,17 @@ This supplementary file provides the implementation used for the results in Wass
 ## Dependencies
 python 3.6.5
 
-cv2==3.4.3
-logging==0.5.1.2
-matplotlib==3.1.2
-numpy==1.18.1
-pandas==0.25.3
-PIL==6.0.0
-torch==1.0.1
-torchvision==0.2.2
-torchfile==0.1.0
-tensorboardX==2.1
-protobuf=3.13.0.1
+cv2==3.4.3  
+logging==0.5.1.2  
+matplotlib==3.1.2  
+numpy==1.18.1  
+pandas==0.25.3  
+PIL==6.0.0  
+torch==1.0.1  
+torchvision==0.2.2  
+torchfile==0.1.0  
+tensorboardX==2.1  
+protobuf=3.13.0.1  
 
 ## anaconda virtual environment
 We recommand to use anaconda virtual environment :
