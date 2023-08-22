@@ -1,5 +1,5 @@
 # Introduction
-This supplementary file provides the implementation used for the results in Wasserstein Geodesic Generator for Conditional Distributions"
+This supplementary file provides the implementation used for the results in Wasserstein Geodesic Generator for Conditional Distributions" [[paper]](https://arxiv.org/abs/2308.10145)
 
 # Training Environment
 ## Dependencies
