@@ -4,13 +4,17 @@ This supplementary file provides the implementation used for the results in Wass
 <table>
 <tr>
 <td>
-<img src="fig/fig_generation.png" width="70%" alt="Conditional generation results by the proposed method">
+<img src="fig/fig_generation.png" width="100%" alt="Results by the proposed method">
+</td>
+<td>
+<img src="fig/generation_cAAE.png" width="100%" alt="Results by the baseline method">
 </td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 
-**Conditional generation results by the proposed method.** The proposed method produces face images with clearer eyes, noses, and mouths than baselines. The leftmost and rightmost columns show generation results for observed domains and intermediate columns show results for unobserved intermediate domains.
+**Conditional generation results by the proposed method (left) and cAAE (right).** The proposed method produces face images with clearer eyes, noses, and mouths than baselines. For each method, the leftmost and rightmost columns show generation results for observed domains and intermediate columns show results for unobserved intermediate domains.
+
 
 </td>
 </tr>
